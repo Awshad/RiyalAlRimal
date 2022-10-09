@@ -277,7 +277,7 @@ a:focus {
 
 .header .hero h1 {
     margin: 0;
-    font-size: 60px;
+    font-size: 50px;
     /* font-weight: 100; */
     color: #ffffff;
 }
@@ -290,6 +290,8 @@ a:focus {
 
 .header .hero h1 span {
     color: #FFD662;
+    font-size: 60px;
+    text-transform: uppercase;
 }
 
 .header .hero p {
@@ -391,6 +393,11 @@ a:focus {
         margin: 10px 0 20px 0;
         font-size: 15px;
         color: #ffffff;
+    }
+    .header .hero h1 span {
+        color: #FFD662;
+        font-size: 50px;
+        text-transform: uppercase;
     }
 }
 
