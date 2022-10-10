@@ -20,10 +20,10 @@
         //.log to determine when you want the
         //nav bar to stick.
         console.log($(window).scrollTop());
-        if ($(window).scrollTop() > 500) {
+        if ($(window).scrollTop() > 100) {
             $('#header').addClass('header-fixed');
         }
-        if ($(window).scrollTop() < 500) {
+        if ($(window).scrollTop() < 100) {
             $('#header').removeClass('header-fixed');
         }
     });
