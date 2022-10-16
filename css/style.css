@@ -61,7 +61,7 @@ a:focus {
 
 .back-to-top:hover {
     color: #ffffff;
-    background: #00539C;
+    background: #df1818;
 }
 
 .back-to-top i {
@@ -75,12 +75,12 @@ a:focus {
 .header {
     position: relative;
     width: 100%;
-    background: #00539C;
+    background: #df1818;
 }
 
 .header.home {
     margin-bottom: 45px;
-    background: linear-gradient(rgba(0, 83, 156, 1), rgba(0, 83, 156, .9), rgba(0, 83, 156, 1)), url(../img/header.jpg);
+    background: linear-gradient(rgb(146, 2, 2), rgba(163, 44, 44, 0.9), rgb(226, 134, 134)), url(../img/header.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -107,7 +107,7 @@ a:focus {
     position: fixed;
     width: 100%;
     padding: 15px 0 0 0;
-    background: #00539C;
+    background: #df1818;
   }
 
 .header .brand a {
@@ -142,7 +142,7 @@ a:focus {
 
 .header .topbar-col a i {
     margin-right: 10px;
-    color: #00539C;
+    color: #df1818;
 }
 
 .header .topbar-social {
@@ -156,7 +156,7 @@ a:focus {
 .header .topbar-social a i {
     margin-right: 10px;
     font-size: 18px;
-    color: #00539C;
+    color: #df1818;
 }
 
 .header .topbar-social a:last-child i {
@@ -257,7 +257,7 @@ a:focus {
     padding: 12px 20px 10px 20px;
     font-size: 13px;
     text-transform: uppercase;
-    color: #00539C;
+    color: #df1818;
     border: none;
     border-radius: 5px;
     background: #ffffff;
@@ -327,7 +327,7 @@ a:focus {
     padding: 15px 30px;
     font-size: 16px;
     text-transform: uppercase;
-    color: #00539C;
+    color: #df1818;
     border: none;
     border-radius: 5px;
     background: #ffffff;
@@ -388,7 +388,7 @@ a:focus {
 }
 
 .header .hero .form .btn:hover {
-    color: #00539C;
+    color: #df1818;
     background: #ffffff;
 }
 
@@ -449,7 +449,7 @@ a:focus {
     padding: 0 12px;
     font-size: 22px;
     font-weight: 300;
-    color: #00539C;
+    color: #df1818;
 }
 
 .page-header a:hover {
@@ -493,7 +493,7 @@ a:focus {
     height: 3px;
     left: calc(50% - 50px);
     bottom: 0;
-    background: linear-gradient(to left, #FFD662, #00539C, #FFD662);
+    background: linear-gradient(to left, #FFD662, #df1818, #FFD662);
     border-radius: 100%;
 }
 
@@ -504,7 +504,7 @@ a:focus {
     height: 9px;
     left: calc(50% - 10px);
     bottom: -3px;
-    background: #00539C;
+    background: #df1818;
     border-radius: 5px;
 } */
 
@@ -514,7 +514,7 @@ a:focus {
 }
 
 .section-header h1 {
-    color: #00539C;
+    color: #df1818;
     font-size: 60px;
     font-weight: 800;
 }
@@ -526,7 +526,7 @@ a:focus {
 .section-header.left::before {
     width: 60px;
     left: 0;
-    background: linear-gradient(to left, #FFD662, #00539C, #00539C);
+    background: linear-gradient(to left, #FFD662, #df1818, #df1818);
     border-radius: 0 100% 100% 0;
 }
 
@@ -558,7 +558,7 @@ a:focus {
 
 .about .about-text h2 {
     position: relative;
-    color: #00539C;
+    color: #df1818;
     font-size: 50px;
     margin-bottom: 15px;
 }
@@ -585,7 +585,7 @@ a:focus {
 
 .about .about-text a.btn:hover {
     color: #ffffff;
-    background: #00539C;
+    background: #df1818;
 }
 
 @media (max-width: 767.98px) {
@@ -624,7 +624,7 @@ a:focus {
     padding: 25px 15px 15px 15px;
     font-size: 20px;
     font-weight: 300;
-    color: #00539C;
+    color: #df1818;
 }
 
 .service .service-item p {
@@ -648,7 +648,7 @@ a:focus {
 
 .service .service-item:hover a.btn {
     color: #ffffff;
-    background: #00539C;
+    background: #df1818;
 }
 
 .service .service-item a.btn:hover {
@@ -684,7 +684,7 @@ a:focus {
 
 .feature a.btn:hover {
     color: #ffffff;
-    background: #00539C;
+    background: #df1818;
 }
 
 .feature .feature-item {
@@ -700,7 +700,7 @@ a:focus {
     margin-bottom: 15px;
     font-size: 22px;
     font-weight: 300;
-    color: #00539C;
+    color: #df1818;
 }
 
 .feature .feature-item p {
@@ -758,7 +758,7 @@ a:focus {
     margin-bottom: 5px;
     font-size: 20px;
     font-weight: 400;
-    color: #00539C;
+    color: #df1818;
 }
 
 .team .team-text h3 {
@@ -817,7 +817,7 @@ a:focus {
 
 .team .team-social a:hover {
     color: #ffffff;
-    background: #00539C;
+    background: #df1818;
 }
 
 
@@ -868,7 +868,7 @@ a:focus {
 .faqs .card-header a {
     display: block;
     width: 100%;
-    color: #00539C;
+    color: #df1818;
     font-size: 18px;
     font-weight: 300;
     line-height: 40px;
@@ -889,7 +889,7 @@ a:focus {
     font-family: 'font Awesome 5 Free';
     content: "\f067";
     float: right;
-    color: #00539C;
+    color: #df1818;
     font-size: 12px;
     font-weight: 900;
     transition: .3s;
@@ -899,7 +899,7 @@ a:focus {
     font-family: 'font Awesome 5 Free';
     content: "\f068";
     float: right;
-    color: #00539C;
+    color: #df1818;
     font-size: 12px;
     font-weight: 900;
     transition: .3s;
@@ -926,7 +926,7 @@ a:focus {
 
 .faqs a.btn:hover {
     color: #ffffff;
-    background: #00539C;
+    background: #df1818;
 }
 
 
@@ -955,7 +955,7 @@ a:focus {
 
 .price .featured-item .price-header {
     color: #ffffff;
-    background: #00539C;
+    background: #df1818;
 }
 
 .price .price-icon {
@@ -1037,12 +1037,12 @@ a:focus {
 
 .price .price-action a:hover {
     color: #ffffff;
-    background: #00539C;
+    background: #df1818;
 }
 
 .price .featured-item .price-action a {
     color: #ffffff;
-    background: #00539C;
+    background: #df1818;
 }
 
 .price .featured-item .price-action a:hover {
@@ -1058,7 +1058,7 @@ a:focus {
     position: relative;
     margin: 45px 0;
     padding: 60px 0;
-    background: #00539C;
+    background: #df1818;
 }
 
 .newsletter h2 {
@@ -1102,7 +1102,7 @@ a:focus {
 
 .newsletter .btn:hover {
     color: #ffffff;
-    background: #00539C;
+    background: #df1818;
 }
 
 
@@ -1178,7 +1178,7 @@ a:focus {
 }
 
 .testimonial .owl-dot.active {
-    background: #00539C;
+    background: #df1818;
 }
 
 
@@ -1210,7 +1210,7 @@ a:focus {
     padding: 25px 30px 5px 30px;
     font-size: 22px;
     font-weight: 300;
-    color: #00539C;
+    color: #df1818;
 }
 
 .blog .blog-item .meta {
@@ -1253,7 +1253,7 @@ a:focus {
 
 .blog .blog-item:hover a.btn {
     color: #ffffff;
-    background: #00539C;
+    background: #df1818;
 }
 
 .blog .blog-item a.btn:hover {
@@ -1269,7 +1269,7 @@ a:focus {
     position: relative;
     margin: 45px 0;
     padding: 60px 0;
-    background: #00539C;
+    background: #df1818;
 }
 
 .call-to-action h2 {
@@ -1347,7 +1347,7 @@ a:focus {
     padding: 10px 0;
     text-align: center;
     background: #FFD662;
-    border: 1px solid #00539C;
+    border: 1px solid #df1818;
     border-radius: 5px;
     color: #000000;
     font-size: 16px;
@@ -1373,8 +1373,8 @@ a:focus {
     left: 50%;
     margin-left: -1.5px;
     background: #FFD662;
-    border-left: 1px solid #00539C;
-    border-right: 1px solid #00539C;
+    border-left: 1px solid #df1818;
+    border-right: 1px solid #df1818;
 }
 
 .story .row.story-left,
@@ -1402,7 +1402,7 @@ a:focus {
     height: 17px;
     top: 42px;
     background: #FFD662;
-    border: 1px solid #00539C;
+    border: 1px solid #df1818;
     border-radius: 15px;
     z-index: 1;
 }
@@ -1503,7 +1503,7 @@ a:focus {
 }
 
 .story .story-text h3 {
-    color: #00539C;
+    color: #df1818;
     font-size: 18px;
     font-weight: 400;
 }
@@ -1600,7 +1600,7 @@ a:focus {
 
 .portfolio #portfolio-flters li:hover,
 .portfolio #portfolio-flters li.filter-active {
-    background: #00539C;
+    background: #df1818;
     color: #ffffff;
 }
 
@@ -1616,7 +1616,7 @@ a:focus {
 
 .portfolio .load-more .btn:hover {
     color: #ffffff;
-    background: #00539C;
+    background: #df1818;
 }
 
 .portfolio .portfolio-item {
@@ -1677,14 +1677,14 @@ a:focus {
 
 .portfolio .portfolio-item figure .link-preview i,
 .portfolio .portfolio-item figure .link-details i {
-    color: #00539C;
+    color: #df1818;
     padding-top: 25px;
     font-size: 30px;
 }
 
 .portfolio .portfolio-item figure .link-preview:hover,
 .portfolio .portfolio-item figure .link-details:hover {
-    background: #00539C;
+    background: #df1818;
 }
 
 .portfolio .portfolio-item figure .link-preview:hover i,
@@ -1716,7 +1716,7 @@ a:focus {
 
 .portfolio .portfolio-item figure .portfolio-title:hover {
     text-decoration: none;
-    background: #00539C;
+    background: #df1818;
     color: #ffffff;
 }
 
@@ -1758,7 +1758,7 @@ a:focus {
 
 .contact .contact-form .btn:hover {
     color: #ffffff;
-    background: #00539C;
+    background: #df1818;
 }
 
 
@@ -1801,7 +1801,7 @@ a:focus {
     position: relative;
     margin-top: 45px;
     padding-top: 90px;
-    background: #00539C;
+    background: #df1818;
     color: #ffffff;
     font-weight: 300;
 }
@@ -1898,7 +1898,7 @@ a:focus {
 
 .footer .footer-form .btn:hover {
     color: #ffffff;
-    background: #00539C;
+    background: #df1818;
 }
 
 .footer .footer-menu {
